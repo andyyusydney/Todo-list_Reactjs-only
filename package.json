@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-todo",
+  "version": "1.0.0",
+  "description": "Learn reactjs by doing todo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyyusydney/reactjs-todo.git"
+  },
+  "keywords": [],
+  "author": "Andy Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyyusydney/reactjs-todo/issues"
+  },
+  "homepage": "https://github.com/andyyusydney/reactjs-todo#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
